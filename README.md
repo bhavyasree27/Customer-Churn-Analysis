@@ -113,7 +113,5 @@ customer-churn-analysis
 
 ## Author
 
-**Vijay Saroj**
-B.Tech(ECE)
-IIT (ISM) Dhanbad
+**Bhavya Sree**
 
